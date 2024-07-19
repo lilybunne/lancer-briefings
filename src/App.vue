@@ -101,28 +101,28 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Pulsar",
-          "alias": "Leah P. Nightingale",
+          "callsign": "Golddust",
+          "alias": "Yusef Hernandez Ostoichie ",
           "code": "fdb96ace-00cd-4ab3-8e2d-be77fe419639//NDL-C-FOURTH-MOUNTAIN//BIOMETRIC RECORD VALID [[18.55PB]] :: OHM C//5024-04-26T04:47:48.558Z",
           "corpro": "MSMC",
-          "frame": "Everest",
-          "mech": "Fateful Embarkation"
+          "frame": "White Witch",
+          "mech": "Glitter & Trauma"
         },
         {
-          "callsign": "Loup",
-          "alias": "Lenore Seprith",
+          "callsign": "Outsider",
+          "alias": "MEURSAULT-XPT1",
           "code": "3167de9c-6f6b-4e22-acf9-551980cf5b7e//NDL-C-SACRED-STATION//BIOMETRIC RECORD VALID [[18.59PB]] :: OHM C//5024-04-26T04:50:01.922Z",
           "corpro": "MSMC",
-          "frame": "Enkidu",
-          "mech": "Argent Luna"
+          "frame": "Sunzi",
+          "mech": "Sunstroke In Algiers"
         },
         {
-          "callsign": "Hellion",
-          "alias": "Helen Stane",
+          "callsign": "Cheonma",
+          "alias": "Gu Laoshen",
           "code": "836cd3cd-259f-4dee-bea6-7fe479f50aa9//NDL-C-SIGMA-CROSS//BIOMETRIC RECORD VALID [[13.91PB]] :: OHM C//5024-04-26T04:51:13.875Z",
           "corpro": "MSMC",
-          "frame": "Sherman",
-          "mech": "Monarch"
+          "frame": "Zheng",
+          "mech": "Mingjiao"
         },
       ],
       "header": {
